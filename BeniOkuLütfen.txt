@@ -1,0 +1,16 @@
+# MacAdresiDegistirme
+Macchanger
+
+Eğer başka bir işletim sistemi kullanıyorsan kendin ona göre ayarlayabilirsin kodu  
+
+Örnek wlan0 yerine wlp2s0 olabilir. ifconfig yazarak kendi internet sağlayıcına bakıp 
+ona göre değiştirebilirsin  :)
+Ve Bilgisayarındaki uçbirime şu komutları yaz öncelikle yoksa kodun çalışmaz .
+Eğer yüklü ise bu araçlar. Yazmana gerek yok .
+
+apt install macchanger
+
+sudo apt install net-tools
+
+apt install python3 
+
